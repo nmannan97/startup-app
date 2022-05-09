@@ -1,17 +1,13 @@
 /* classnames */
 .App {
+  min-width: auto;
   min-height: 100vh;
   text-align: center;
   align-items: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
 .App-header {
-  min-width: auto;
+  width: auto;
   align-items: center;
   font-size: calc(100px + 2vmin);
   color: white;
@@ -19,11 +15,9 @@
 
 .container {
   display: grid;
-  grid-template-columns: 550px 550px 550px ;
-  grid-template-rows: 550px;
-  
-  min-width: auto;
-  max-width: auto;
+  grid-template-columns: 90vmin 90vmin 90vmin;
+  grid-template-rows: auto;
+
   height: 500px;
   box-sizing: border-box;
 
@@ -38,28 +32,41 @@
   align-items: center;
   justify-items: center;
   box-sizing: border-box;
-  width: 500px;
-  height: 500px;
+  width: 30vmin;
+  height: auto;
   background: white;
   border: 2px solid black;
+  object-fit: scale-down;
 }
 
 /* IDs */
 #background{
+  justify-content: center;
   background: url("pictures/Blueprint.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #Title{
+  width: 100%;
   background-color: #c2b280;
   transition-duration: 1s;
   align-items: center;
+  text-align: center;
 }
 
 #Title:hover{
+  text-align: center;
+  min-width: auto;
   background-color: #c2b280;
   color: black;
   font-size: calc(150px + 2vmin);
   align-items: center;
+}
+
+/* tags */
+img {
+  height: 80%;
+  width: 80%;
+  object-fit: scale-down;
 }
