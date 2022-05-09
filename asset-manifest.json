@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/startup-app/static/css/main.e41eb3e1.css",
-    "main.js": "/startup-app/static/js/main.f078abd0.js",
+    "main.js": "/startup-app/static/js/main.98007428.js",
     "static/js/787.c71e76e5.chunk.js": "/startup-app/static/js/787.c71e76e5.chunk.js",
     "static/media/Blueprint.jpg": "/startup-app/static/media/Blueprint.5e47543d5b092ca0a984.jpg",
     "static/media/BlueprintTruck.jpg": "/startup-app/static/media/BlueprintTruck.4a397f227bc0687d4b68.jpg",
@@ -12,11 +12,11 @@
     "static/media/BlueprintSpace.jpg": "/startup-app/static/media/BlueprintSpace.0a504b5022a8c25ad3eb.jpg",
     "index.html": "/startup-app/index.html",
     "main.e41eb3e1.css.map": "/startup-app/static/css/main.e41eb3e1.css.map",
-    "main.f078abd0.js.map": "/startup-app/static/js/main.f078abd0.js.map",
+    "main.98007428.js.map": "/startup-app/static/js/main.98007428.js.map",
     "787.c71e76e5.chunk.js.map": "/startup-app/static/js/787.c71e76e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e41eb3e1.css",
-    "static/js/main.f078abd0.js"
+    "static/js/main.98007428.js"
   ]
 }
