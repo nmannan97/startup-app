@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/startup-app/static/css/main.b2fa27bb.css",
-    "main.js": "/startup-app/static/js/main.3ed77fb2.js",
+    "main.js": "/startup-app/static/js/main.341a1021.js",
     "static/js/787.c71e76e5.chunk.js": "/startup-app/static/js/787.c71e76e5.chunk.js",
     "static/media/Blueprint.jpg": "/startup-app/static/media/Blueprint.5e47543d5b092ca0a984.jpg",
     "static/media/BlueprintTruck.jpg": "/startup-app/static/media/BlueprintTruck.4a397f227bc0687d4b68.jpg",
+    "static/media/BlueprintRocket.jpg": "/startup-app/static/media/BlueprintRocket.91d60ee373b816dde573.jpg",
     "static/media/BlueprintPlane.jpg": "/startup-app/static/media/BlueprintPlane.f51bd00e084a49d6d3f7.jpg",
     "static/media/BlueprintCar.jpg": "/startup-app/static/media/BlueprintCar.44a683b10f995311eaca.jpg",
     "static/media/BlueprintController.jpg": "/startup-app/static/media/BlueprintController.b594e78164459a9f39d0.jpg",
+    "static/media/BlueprintSpace.jpg": "/startup-app/static/media/BlueprintSpace.0a504b5022a8c25ad3eb.jpg",
     "index.html": "/startup-app/index.html",
     "main.b2fa27bb.css.map": "/startup-app/static/css/main.b2fa27bb.css.map",
-    "main.3ed77fb2.js.map": "/startup-app/static/js/main.3ed77fb2.js.map",
+    "main.341a1021.js.map": "/startup-app/static/js/main.341a1021.js.map",
     "787.c71e76e5.chunk.js.map": "/startup-app/static/js/787.c71e76e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2fa27bb.css",
-    "static/js/main.3ed77fb2.js"
+    "static/js/main.341a1021.js"
   ]
 }
