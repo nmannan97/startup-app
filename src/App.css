@@ -11,6 +11,7 @@
 }
 
 .App-header {
+  min-width: auto;
   align-items: center;
   font-size: calc(100px + 2vmin);
   color: white;
