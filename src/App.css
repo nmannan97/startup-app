@@ -21,7 +21,7 @@
   grid-template-columns: 550px 550px 550px ;
   grid-template-rows: 550px;
   
-  min-width: 1000px;
+  min-width: auto;
   max-width: auto;
   height: 500px;
   box-sizing: border-box;
