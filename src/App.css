@@ -18,6 +18,7 @@
   grid-template-columns: 90vmin 90vmin 90vmin;
   grid-template-rows: auto;
 
+  
   height: 40vmin;
   box-sizing: border-box;
 
@@ -29,6 +30,7 @@
 }
 
 .item {
+  
   align-items: center;
   justify-items: center;
   box-sizing: border-box;
@@ -36,7 +38,7 @@
   height: auto;
   background: white;
   border: 2px solid black;
-  object-fit: scale-down;
+  object-fit: contain;
 }
 
 .genFontLarge{
@@ -52,6 +54,7 @@
 }
 /* IDs */
 #background{
+  
   justify-content: center;
   background: url("pictures/Blueprint.jpg");
   background-repeat: no-repeat;
@@ -75,11 +78,15 @@
 }
 
 #missionStatement{
+  
   width: calc(fit-content + 5px);
   align-self: center;
   padding: 5px;
 }
 #missionStatement1{
+  min-width: 20vw;
+  max-width: 90vmin;
+
   border-radius: 10px;
   background-color: whitesmoke;
   width: 60vw;
@@ -88,6 +95,9 @@
 }
 
 #missionStatement1:hover{
+  min-width: 20vw;
+  max-width: 90vmin;
+  
   font-size: 2em;
   border-radius: 10px;
   background-color: white;

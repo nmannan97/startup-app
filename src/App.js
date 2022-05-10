@@ -22,10 +22,13 @@ function App() {
           <p id="missionStatement1" class="genFontSmall">
             Our mission is to work with companies to provide them with ingenuity and creative ways to make
             new products through block chain technologies along with the founders' creative minds. This is
-            to make up for the lack of creativity that companies search for in their employees. The founders
-            are all enginers including... 
-            <br/>
-            Naeem M, an electrical engineer from SJSU that aspires to be a successful entrepenuer
+            to make up for the lack of creativity that companies search for in their employees.
+            <br/><br/> For example
+            One of the foundeders worked for a major tech companies and submitted various patent ideas to 
+            the company. Though he was a contracter, they would not pay him for his ideas, so he decided to
+            make this company with the other founders. The founders are all enginers including... 
+            <br/><br/>
+            Naeem M, an electrical engineer from SJSU that aspires to be a successful entrepenuer.
             
           </p>
         </div>
