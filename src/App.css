@@ -37,6 +37,7 @@
   background: white;
   border: 2px solid black;
   object-fit: scale-down;
+  font-size: 2em;
 }
 
 /* IDs */
@@ -68,4 +69,9 @@ img {
   height: 80%;
   width: 80%;
   object-fit: scale-down;
+}
+
+div{
+  padding: 10px auto; 
+  margin-right: 10px;
 }
