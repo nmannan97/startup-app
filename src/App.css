@@ -1,7 +1,7 @@
 /* classnames */
 .App {
-  min-width: auto;
-  min-height: 100vh;
+  min-width: 100vmin;
+  min-height: 100vmin;
   text-align: center;
   align-items: center;
 }
@@ -37,7 +37,6 @@
   background: white;
   border: 2px solid black;
   object-fit: scale-down;
-  font-size: 2em;
 }
 
 .genFontLarge{
@@ -62,7 +61,7 @@
 #Title{
   width: 100%;
   background-color: #c2b280;
-  transition-duration: 1s;
+  transition-duration: 0.5s;
   align-items: center;
   text-align: center;
 }
