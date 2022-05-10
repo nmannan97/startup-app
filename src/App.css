@@ -40,6 +40,17 @@
   font-size: 2em;
 }
 
+.genFontLarge{
+  font-size: 5em;
+  color: white;
+  text-shadow: 1px 1px 10 black;
+  opacity: 100%;
+}
+.genFontSmall{
+  font-size: 1.5em;
+  color: rgb(25, 25, 151);
+  text-shadow: 1px 1px 10 black;
+}
 /* IDs */
 #background{
   justify-content: center;
@@ -62,6 +73,33 @@
   color: black;
   font-size: calc(5px + 15vmin);
   align-items: center;
+}
+
+#missionStatement{
+  width: calc(fit-content + 5px);
+  align-self: center;
+  padding: 5px;
+}
+#missionStatement1{
+  border-radius: 10px;
+  background-color: whitesmoke;
+  width: 90vmin;
+  margin: 0px auto;
+  transition: 2s;
+}
+
+#missionStatement1:hover{
+  font-size: 2em;
+  border-radius: 10px;
+  background-color: white;
+  width: 100vmin;
+  margin: 0px auto;
+}
+#projects {
+  width: 90vmin;
+  background-color: black;
+  opacity: 80%;
+  margin: 0 auto;
 }
 
 /* tags */

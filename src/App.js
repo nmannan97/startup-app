@@ -15,6 +15,30 @@ function App() {
           </div>
         </header>
 
+        <div id="missionStatement">
+          <h1 class = "genFontLarge">
+            Mission statement
+          </h1>
+          <p id="missionStatement1" class="genFontSmall">
+            Our mission is to work with companies to provide them with ingenuity and creative ways to make
+            new products through block chain technologies along with the founders' creative minds. This is
+            to make up for the lack of creativity that companies search for in their employees. The founders
+            are all enginers including... 
+            <br/>
+            Naeem M, an electrical engineer from SJSU that aspires to be a successful entrepenuer
+            
+          </p>
+        </div>
+
+        <div  id="projects">
+          <p class="genFontLarge">
+            Below are some sample projects of how the website will look like. We will fill them with our own 
+            ideas and patents soon enough, stay tuned! 
+
+          </p>
+
+        </div>
+
         <br/>
         <div id="row1" class="container">
           <div class="container">
