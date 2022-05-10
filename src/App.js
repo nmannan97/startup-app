@@ -31,7 +31,7 @@ function App() {
         </div>
 
         <div  id="projects">
-          <p class="genFontLarge">
+          <p id="projects">
             Below are some sample projects of how the website will look like. We will fill them with our own 
             ideas and patents soon enough, stay tuned! 
 
