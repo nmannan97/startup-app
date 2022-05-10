@@ -95,7 +95,8 @@
   margin: 0px auto;
 }
 #projects {
-  width: 80vw;
+  min-width: 20vw;
+  max-width: 90vmin;
   background-color: black;
   opacity: 80%;
   margin: 0 auto;
