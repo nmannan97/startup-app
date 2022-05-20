@@ -16,6 +16,7 @@ export default function App() {
       <div className="menu">
         <Routes>
           <Route exact path='/startup-app/' element={<Login/>} />
+          <Route exact path='/startup-app' element={<Login/>} />
           <Route exact path='/startup-app/mainpage' element={<Mainpage/>}/>
           <Route exact path='/startup-app/about' element={<About />}/>
         </Routes>

@@ -30,7 +30,7 @@ function About() {
     return (
         <div>
             <input onChange={userHandle} type="text" name="Username" id = "Username" placeholder="username"></input>
-            <input onChange={passHandle} type="text" name="Password" id = "Password" placeholder="password"></input>
+            <input onChange={passHandle} type="password" name="Password" id = "Password" placeholder="password"></input>
             <button onClick={logValue}>Sign in</button>
         </div>
     );
