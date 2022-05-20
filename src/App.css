@@ -84,6 +84,8 @@
   padding: 5px;
 }
 #missionStatement1{
+  text-align: left;
+
   min-width: 20vw;
   max-width: 90vmin;
 
@@ -95,9 +97,11 @@
 }
 
 #missionStatement1:hover{
+  text-align: left;
+
   min-width: 20vw;
   max-width: 90vmin;
-  
+
   font-size: 2em;
   border-radius: 10px;
   background-color: white;
@@ -110,7 +114,7 @@
   background-color: black;
   opacity: 80%;
   margin: 0 auto;
-  font-size: 1.5em;
+  font-size: 3em;
   color: white;
 }
 
